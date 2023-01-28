@@ -5,6 +5,8 @@ body {
     flex-direction: column;
 }
 
+/* CSS TO SECTION ONE */
+
 .section-one {
     background-color: #1F2937;
     height: 500px;
@@ -40,10 +42,6 @@ ul {
 a {
     color: #E5E7EB;
     text-decoration: none;
-}
-
-li {
-
 }
 
 .header-content {
@@ -93,3 +91,5 @@ li {
     justify-content: center;
     align-items: center;
 }
+
+/* CSS TO SECTION TWO */
