@@ -211,9 +211,13 @@ a {
 /* CSS FOOTER SECTION */
 
 .footer {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    background-color: #1F2937;
 }
 
 .footer-text {
-    
+    color: #F9FAF8;
 }
