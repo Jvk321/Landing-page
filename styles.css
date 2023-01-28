@@ -171,21 +171,39 @@ a {
 /* CSS SECTION FOUR */
 
 .section-four {
-
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .signup-container {
-
-}
-
-.inside-container {
+    width: 1000px;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 }
 
 .signup-heading {
-
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .signup-paragraph {
+    color: #F9FAF8;
+}
 
+.bt-two {
+    padding: 6px 30px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
 }
